@@ -30,7 +30,7 @@ The simulation includes:
 
 ## Presentation
 
-If you do not have Unity installed or encounter issues opening the project, I will provide a `.exe` build** of the simulation. We can demonstrate the full functionality during the presentation to ensure you can view the project without needing to set up Unity locally.
+If you do not have Unity installed or encounter issues opening the project, I will provide a **`.exe` build** of the simulation. We can demonstrate the full functionality during the presentation to ensure you can view the project without needing to set up Unity locally.
 
 
 ---
