@@ -4,7 +4,7 @@ This repository contains a 3D zipline simulation developed using the Unity game 
 
 ## Requirements
 
-To open and run this project, **Unity must be installed** on your system. The project was developed using Unity [insert version here], and it is recommended to use the same or a later compatible version to avoid compatibility issues.
+To open and run this project, **Unity must be installed** on your system. The project was developed using Unity 2022.3, and it is recommended to use the same or a later compatible version to avoid compatibility issues.
 
 You can download Unity from the [official Unity website](https://unity.com/).
 
